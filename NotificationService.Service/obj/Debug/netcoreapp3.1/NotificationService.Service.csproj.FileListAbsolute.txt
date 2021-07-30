@@ -1,0 +1,9 @@
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\bin\Debug\netcoreapp3.1\NotificationService.Service.deps.json
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\bin\Debug\netcoreapp3.1\NotificationService.Service.dll
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\bin\Debug\netcoreapp3.1\NotificationService.Service.pdb
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\obj\Debug\netcoreapp3.1\NotificationService.Service.csprojAssemblyReference.cache
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\obj\Debug\netcoreapp3.1\NotificationService.Service.AssemblyInfoInputs.cache
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\obj\Debug\netcoreapp3.1\NotificationService.Service.AssemblyInfo.cs
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\obj\Debug\netcoreapp3.1\NotificationService.Service.csproj.CoreCompileInputs.cache
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\obj\Debug\netcoreapp3.1\NotificationService.Service.dll
+C:\Users\Meharshg\Desktop\CitiusTech Training\Mashesh_Sabnis_NetCode\NotificationService\NotificationService.Service\obj\Debug\netcoreapp3.1\NotificationService.Service.pdb
